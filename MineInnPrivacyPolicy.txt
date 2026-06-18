@@ -1,0 +1,20 @@
+MineInn privacy policy!
+Managed by RonyCodes Studios.
+
+What is the data we store :
+We store a custom player id for each player,
+player tags (such as moderator), player bans,
+and currency/items owned ingame.
+
+Why we store this data :
+Offline data (such as currency) is stored to
+make game saving possible and not having to restart every time.
+Online data (such as player tags) is stored to
+identify if a player is banned, or is a moderator.
+
+How can I delete my data :
+To delete offline data (such as currency) navigate to
+your meta quest storage system, and delete the game's local data.
+To delete online data (such as player tags) email
+torillisthesecond@gmail.com requesting data deletion.
+ANYONE can delete data.
