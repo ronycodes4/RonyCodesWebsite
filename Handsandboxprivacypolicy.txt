@@ -1,1 +1,31 @@
+[Last Updated 27/10/2026]
+Hand Sandbox Privacy Policy
+Managed By RonyCodes Studios
 
+
+Data we store :
+Hand sandbox keeps 2 types of data stored locally :
+1. Player Data
+Player data is stored locally on the device and is used for progress tracking.
+2. Identification Data
+Identification data is used to track user roles ingame and may sometimes be stored in the database
+
+
+How to check if you are in the database :
+Go up to the rank board ingame.
+If your rank is "None" your data is NOT stored in the database.
+If your rank is anything else (Stored, Creator, Admin, etc) you ARE stored in the database.
+
+
+Deleting Player Data :
+Anyone can delete player data by pressing the delete data button in the game (it is located next to the rank board)
+
+
+Deleting Identification Data :
+Anyone can delete their Identification data easily.
+
+If stored in the database :
+Send an email to ronycodesid@gmail.com
+
+If not stored in the database :
+Go to your meta quest storage settings and delete the apps data
